@@ -12,6 +12,7 @@ import { Router } from '@angular/router';
       }
       #nav-text{
         color: #335280;
+        
       }
       #nav-text:hover{
         background-color: #335280;
@@ -19,6 +20,9 @@ import { Router } from '@angular/router';
       }
       p{
         font-style: italic;
+      }
+      #nav-responsive-btn{
+        background-color: white;
       }
     `
   ]
