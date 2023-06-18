@@ -123,23 +123,23 @@ export class ProyectosComponent implements OnInit {
     },
     {
       id_empresa: 4,
-      nombre_empresa: "CONNECT",
-      nombre_simple: "CONN",
+      nombre_empresa: "COMTEC",
+      nombre_simple: "COM",
       cant_proyectos: 3,
       alt_img: "",
       proyectos: [
         {
-          id_proyecto: "CONN_1",
+          id_proyecto: "COM_1",
           nombre_proyecto: "Sitios completos al sur del pais.",
           tiene_fotos: false,
         },
         {
-          id_proyecto: "CONN_2",
+          id_proyecto: "COM_2",
           nombre_proyecto: "Azoteas en R.M. y Zona Norte.",
           tiene_fotos: false,
         },
         {
-          id_proyecto: "CONN_3",
+          id_proyecto: "COM_3",
           nombre_proyecto: "Canalización en la R.M.",
           tiene_fotos: true,
           alt_img: [
